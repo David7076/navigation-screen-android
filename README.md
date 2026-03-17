@@ -1,5 +1,6 @@
 # Projeto Android com Kotlin
 
+## O app possui tela de Login, Menu, Pedidos e Perfil, sendo possível navegar entre essas telas. O objetivo do projeto é estudar conceitos de rotas e componentes do Kotlin.
 
 ## Imagens das telas do App
 
