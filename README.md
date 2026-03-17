@@ -17,5 +17,6 @@
 
 
 ### Tela de Perfil
-<img width="886" height="1184" alt="image" src="https://github.com/user-attachments/assets/30e13424-4c25-4952-8ee5-0aab28bbdafa" />
+<img width="886" height="1172" alt="image" src="https://github.com/user-attachments/assets/402f1315-67b6-468d-a032-161fccd4f602" />
+
 
